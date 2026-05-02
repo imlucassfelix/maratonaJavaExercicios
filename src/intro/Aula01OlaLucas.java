@@ -1,4 +1,4 @@
-package maratonajava.intro;
+package intro;
 
 public class Aula01OlaLucas {
     public static void main(String[] args) {
