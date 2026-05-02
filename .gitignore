@@ -23,3 +23,8 @@
 hs_err_pid*
 replay_pid*
 src/javacore/Bintrometodos/test/TestOne.java
+
+# Configurações do IntelliJ
+.idea/
+*.iml
+*.iws
