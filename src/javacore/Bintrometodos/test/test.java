@@ -1,4 +1,4 @@
-package maratonajava.javacore.Bintrometodos.test;
+package javacore.Bintrometodos.test;
 
 public class test {
    int test = 1;

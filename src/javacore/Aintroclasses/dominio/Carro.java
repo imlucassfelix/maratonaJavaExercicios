@@ -1,4 +1,4 @@
-package maratonajava.javacore.Aintroclasses.dominio;
+package javacore.Aintroclasses.dominio;
 
 public class Carro {
     //Exercicio Crie uma classe carro com atributos: nome, modelo, ano
